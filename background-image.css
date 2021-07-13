@@ -1,0 +1,28 @@
+.bg{
+    /* background-image: url("./images/Cxxxxapture-removebg-preview4.jpg"); */
+    background-image: url("./images/Cxxxxapture-removebg-preview4.jpg"), url("./images/gettyimages-1201284418-612x612.jpg");
+    
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+
+    /* background-position: center right;*/ /*x-axis y-axis */
+    /* background-position: 70px 100px; */
+    /* background-position: 30% 20%, ;  */
+    background-position: 0% 0%, 100% 0%; 
+    background-position: 0% 0%, right top; 
+    
+
+    /* background-attachment: fixed; */
+    /* background-attachment: scroll; */
+    
+
+
+    /* background-size: 100px 200px; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+
+    
+
+
+}

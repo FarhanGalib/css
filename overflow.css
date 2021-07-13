@@ -1,0 +1,14 @@
+.overflow{
+    background-color: yellow;
+    height: 400px;
+    width: 400px;
+
+
+    /* overflow: visible; */
+    /* overflow: hidden; */
+     /* overflow: scroll; */ 
+    overflow: auto;
+    /* overflow-x: scroll;
+    overflow-y: scroll; */
+
+}

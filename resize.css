@@ -1,0 +1,13 @@
+.resize{
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    background-color: yellow;
+    overflow: auto;
+
+    resize: auto;
+    resize: both;
+    resize: vertical;
+    resize: horizontal;
+    
+}

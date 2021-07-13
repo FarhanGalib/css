@@ -1,0 +1,27 @@
+h1{
+    font-weight: 800;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: bolder;
+    font-weight: 800;
+
+    
+    font-style: italic;
+
+    font-variant: small-caps;
+
+    font-family: 'Noto Serif', serif, 'Poppins', sans-serif, 'Roboto', sans-serif; ;
+
+    /* font-family: 'Poppins', sans-serif; */
+
+    /* font-family: 'Roboto', sans-serif; */
+
+}
+
+#cursor{
+    cursor:col-resize;
+    border: 1px solid red;
+}

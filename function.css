@@ -1,0 +1,14 @@
+:root{
+    --background-color: blueviolet; 
+}
+.fun{
+    height: 400px;
+    background-color: teal;
+    width: calc(100% - 200px);
+
+}
+
+
+a{
+    background-color: var(--background-color);
+}

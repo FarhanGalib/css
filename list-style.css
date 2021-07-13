@@ -1,0 +1,27 @@
+body{
+    
+}
+ul{
+    /* list-style-type: disc;
+    list-style-type: disc;
+    list-style-type: square;
+    list-style-type: circle; */
+    list-style-image: url(./images/arrow-logo2.jpg);
+    list-style-position: inside;
+    
+    
+}
+li{
+    border: 1px solid red;
+}
+
+ol{
+    list-style-type: lower-roman;
+    list-style-type: upper-roman;
+    list-style-type: lower-alpha;
+    list-style-type: upper-alpha;
+    list-style-type: lower-greek;
+    list-style-type: decimal-leading-zero;
+    /* list-style-position: inside; */
+
+}

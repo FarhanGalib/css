@@ -1,0 +1,18 @@
+.pesudo>p::first-letter{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px red;
+}
+.pesudo>p::first-line{
+    color: red;
+}
+.pesudo .heading2::after{
+    content: url("./images/arrow-logo2.jpg");
+}
+.pesudo>h1:: before{
+    content: "added part"
+}
+
+::selection{
+    color:  white;
+    background-color: black;
+}

@@ -1,0 +1,27 @@
+
+.div1{
+    height: 100px;
+    width: 500px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+}
+
+.div2{
+    height: 100px;
+    width: 500px;
+    background-color: burlywood;
+    border: 20px solid black;
+    padding: 20px;
+    margin-bottom: 20px; 
+}
+
+.div3{
+    height: 100px;
+    width: 500px;
+    background-color: greenyellow;
+    border: 20px solid black;
+    padding: 20px;
+    box-sizing: content-box;/*default*/
+    box-sizing: border-box;
+    margin-bottom: 20px; 
+}

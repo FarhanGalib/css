@@ -1,0 +1,50 @@
+.parent{
+    
+    margin: 100px;
+}
+
+.child1{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: green;
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+}
+
+.child2{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: -50px;
+    z-index: 1;
+}
+
+.child3{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left: -100px;
+    z-index: 2;
+
+}
+
+
+
+
+
+
+
+
+
+
+

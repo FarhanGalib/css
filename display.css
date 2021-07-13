@@ -1,0 +1,19 @@
+div{
+    border: 1px solid red;
+    color: white;
+    background-color: black;
+    margin-bottom: 5px;
+    height: 70px;
+    padding: 10px;
+}
+.inline-block{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.display-none{
+    display: none;
+}
+.visibility-hidden{
+    visibility: hidden;
+}

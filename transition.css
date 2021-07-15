@@ -1,0 +1,34 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+.transition1{
+   
+    background-color: red;
+    transition-property: width, background-color;
+    /* transition-delay: 1s; */
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+
+    
+}
+.transition2{
+    background-color: blue;
+    /* transition:  transition-property transition-duration  transition-timing-function transition-delay; */
+    transition: all 2s ease 0s;
+    
+}
+.transition3{
+    
+    background-color:yellow;
+    /* transition:  transition-property transition-duration  transition-timing-function transition-delay; */
+    transition: width 1s, height 3s;
+    
+}
+
+.transition1:hover,.transition2:hover, .transition3:hover{
+    width: 650px;
+    height: 200px;
+    background-color:green;
+}

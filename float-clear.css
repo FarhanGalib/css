@@ -1,0 +1,55 @@
+ul{
+    padding: 10px;
+    background-color: rgb(32, 88, 207);
+    list-style-type: none;
+    color: white;
+    overflow: auto;
+    
+}
+li{
+    float: left;
+    padding: 5px 10px;
+
+}
+
+
+
+
+
+img{
+    width: 80px;
+    float: right;
+    clear: both;
+}
+
+
+
+
+
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: green;
+    
+}
+.content{
+    height: 200px;
+    width: 70%;
+    background-color: yellow;
+    float: left;
+}
+.sidebar{
+    height: 150px;
+    width: 30%;
+    background-color: purple;
+    float: left;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    clear: both;
+    
+
+}
